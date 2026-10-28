@@ -1,0 +1,81 @@
+experiment,topology,load,method,seed,metric,value
+E3,Abilene,Bursty-High,Dijkstra,2000,avg_delay,5.995189738107964
+E3,Abilene,Bursty-High,Dijkstra,2000,loss_pct,7.467853610286845
+E3,Abilene,Bursty-High,Dijkstra,2000,throughput,6.236666666666666
+E3,Abilene,Bursty-High,Dijkstra,2000,load_balance,0.5006725267240941
+E3,Abilene,Bursty-High,Dijkstra,2001,avg_delay,6.4411167512690355
+E3,Abilene,Bursty-High,Dijkstra,2001,loss_pct,3.8555392874572965
+E3,Abilene,Bursty-High,Dijkstra,2001,throughput,6.566666666666666
+E3,Abilene,Bursty-High,Dijkstra,2001,load_balance,0.5219322313053609
+E3,Abilene,Bursty-High,Dijkstra,2002,avg_delay,7.334177215189873
+E3,Abilene,Bursty-High,Dijkstra,2002,loss_pct,10.30881017257039
+E3,Abilene,Bursty-High,Dijkstra,2002,throughput,6.583333333333333
+E3,Abilene,Bursty-High,Dijkstra,2002,load_balance,0.5083258708680933
+E3,Abilene,Bursty-High,Dijkstra,2003,avg_delay,6.246460409019402
+E3,Abilene,Bursty-High,Dijkstra,2003,loss_pct,3.735487127713276
+E3,Abilene,Bursty-High,Dijkstra,2003,throughput,6.3566666666666665
+E3,Abilene,Bursty-High,Dijkstra,2003,load_balance,0.5142537420563533
+E3,Abilene,Bursty-High,Dijkstra,2004,avg_delay,8.786606129398411
+E3,Abilene,Bursty-High,Dijkstra,2004,loss_pct,16.80830972615675
+E3,Abilene,Bursty-High,Dijkstra,2004,throughput,5.873333333333333
+E3,Abilene,Bursty-High,Dijkstra,2004,load_balance,0.4768631590332343
+E3,Abilene,Bursty-High,Q-Learning (Full),2000,avg_delay,4.932518337408313
+E3,Abilene,Bursty-High,Q-Learning (Full),2000,loss_pct,0.0
+E3,Abilene,Bursty-High,Q-Learning (Full),2000,throughput,6.816666666666666
+E3,Abilene,Bursty-High,Q-Learning (Full),2000,load_balance,0.6085690768158853
+E3,Abilene,Bursty-High,Q-Learning (Full),2001,avg_delay,5.6463354648303
+E3,Abilene,Bursty-High,Q-Learning (Full),2001,loss_pct,1.0223953261927945
+E3,Abilene,Bursty-High,Q-Learning (Full),2001,throughput,6.776666666666666
+E3,Abilene,Bursty-High,Q-Learning (Full),2001,load_balance,0.6304511432531319
+E3,Abilene,Bursty-High,Q-Learning (Full),2002,avg_delay,5.615669911914696
+E3,Abilene,Bursty-High,Q-Learning (Full),2002,loss_pct,1.4618547281863865
+E3,Abilene,Bursty-High,Q-Learning (Full),2002,throughput,7.19
+E3,Abilene,Bursty-High,Q-Learning (Full),2002,load_balance,0.6409521284925911
+E3,Abilene,Bursty-High,Q-Learning (Full),2003,avg_delay,4.6135796305541685
+E3,Abilene,Bursty-High,Q-Learning (Full),2003,loss_pct,0.0
+E3,Abilene,Bursty-High,Q-Learning (Full),2003,throughput,6.676666666666667
+E3,Abilene,Bursty-High,Q-Learning (Full),2003,load_balance,0.6364139013813421
+E3,Abilene,Bursty-High,Q-Learning (Full),2004,avg_delay,7.50098231827112
+E3,Abilene,Bursty-High,Q-Learning (Full),2004,loss_pct,3.780718336483932
+E3,Abilene,Bursty-High,Q-Learning (Full),2004,throughput,6.786666666666667
+E3,Abilene,Bursty-High,Q-Learning (Full),2004,load_balance,0.6781818314390543
+E3,Abilene,Bursty-High,SARSA,2000,avg_delay,4.666829745596869
+E3,Abilene,Bursty-High,SARSA,2000,loss_pct,0.0
+E3,Abilene,Bursty-High,SARSA,2000,throughput,6.8133333333333335
+E3,Abilene,Bursty-High,SARSA,2000,load_balance,0.6271241467234563
+E3,Abilene,Bursty-High,SARSA,2001,avg_delay,5.658284023668639
+E3,Abilene,Bursty-High,SARSA,2001,loss_pct,1.313868613138686
+E3,Abilene,Bursty-High,SARSA,2001,throughput,6.76
+E3,Abilene,Bursty-High,SARSA,2001,load_balance,0.6444850760173091
+E3,Abilene,Bursty-High,SARSA,2002,avg_delay,5.727948003714021
+E3,Abilene,Bursty-High,SARSA,2002,loss_pct,1.2832263978001834
+E3,Abilene,Bursty-High,SARSA,2002,throughput,7.18
+E3,Abilene,Bursty-High,SARSA,2002,load_balance,0.6440609590828961
+E3,Abilene,Bursty-High,SARSA,2003,avg_delay,4.69438877755511
+E3,Abilene,Bursty-High,SARSA,2003,loss_pct,0.0
+E3,Abilene,Bursty-High,SARSA,2003,throughput,6.653333333333333
+E3,Abilene,Bursty-High,SARSA,2003,load_balance,0.6588690757781364
+E3,Abilene,Bursty-High,SARSA,2004,avg_delay,7.015255905511811
+E3,Abilene,Bursty-High,SARSA,2004,loss_pct,3.92434988179669
+E3,Abilene,Bursty-High,SARSA,2004,throughput,6.773333333333333
+E3,Abilene,Bursty-High,SARSA,2004,load_balance,0.6564704527979971
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2000,avg_delay,7.743307086614173
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2000,loss_pct,6.296114117068371
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2000,throughput,6.35
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2000,load_balance,0.5734882330471177
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2001,avg_delay,8.516676418958456
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2001,loss_pct,16.26653601175894
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2001,throughput,5.696666666666666
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2001,load_balance,0.5701360382812823
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2002,avg_delay,9.342327150084317
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2002,loss_pct,18.69287020109689
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2002,throughput,5.93
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2002,load_balance,0.552330576079889
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2003,avg_delay,7.69016393442623
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2003,loss_pct,7.993966817496228
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2003,throughput,6.1
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2003,load_balance,0.5962387650999449
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2004,avg_delay,8.200234879624192
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2004,loss_pct,18.75
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2004,throughput,5.676666666666667
+E3,Abilene,Bursty-High,Q-Routing (No Congestion),2004,load_balance,0.5818164375431477

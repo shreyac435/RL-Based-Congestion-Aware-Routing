@@ -1,0 +1,196 @@
+experiment,topology,load,method,seed,metric,value
+E2,Abilene,Medium,Dijkstra,2000,avg_delay,4.24405125076266
+E2,Abilene,Medium,Dijkstra,2000,p95_delay,12.0
+E2,Abilene,Medium,Dijkstra,2000,avg_hops,2.6363636363636362
+E2,Abilene,Medium,Dijkstra,2000,loss_pct,2.265951103160406
+E2,Abilene,Medium,Dijkstra,2000,throughput,4.682857142857143
+E2,Abilene,Medium,Dijkstra,2000,load_balance,0.5155229502670566
+E2,Abilene,Medium,Dijkstra,2000,max_link_util,0.7357142857142858
+E2,Abilene,Medium,Dijkstra,2000,injected,1697.0
+E2,Abilene,Medium,Dijkstra,2000,delivered,1639.0
+E2,Abilene,Medium,Dijkstra,2000,dropped,38.0
+E2,Abilene,Medium,Dijkstra,2000,dropped_queue_full,0.0
+E2,Abilene,Medium,Dijkstra,2000,dropped_link_down,38.0
+E2,Abilene,Medium,Dijkstra,2000,dropped_ttl,0.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,avg_delay,7.558842443729904
+E2,Abilene,Medium,Q-Learning (Frozen),2000,p95_delay,29.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,avg_hops,4.039871382636656
+E2,Abilene,Medium,Q-Learning (Frozen),2000,loss_pct,3.4761018001241464
+E2,Abilene,Medium,Q-Learning (Frozen),2000,throughput,4.442857142857143
+E2,Abilene,Medium,Q-Learning (Frozen),2000,load_balance,0.7935429422117819
+E2,Abilene,Medium,Q-Learning (Frozen),2000,max_link_util,0.8471428571428572
+E2,Abilene,Medium,Q-Learning (Frozen),2000,injected,1697.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,delivered,1555.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,dropped,56.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,dropped_queue_full,4.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,dropped_link_down,3.0
+E2,Abilene,Medium,Q-Learning (Frozen),2000,dropped_ttl,49.0
+E2,Abilene,Medium,Q-Learning (Online),2000,avg_delay,4.403331350386675
+E2,Abilene,Medium,Q-Learning (Online),2000,p95_delay,12.0
+E2,Abilene,Medium,Q-Learning (Online),2000,avg_hops,3.29446757882213
+E2,Abilene,Medium,Q-Learning (Online),2000,loss_pct,0.11883541295306002
+E2,Abilene,Medium,Q-Learning (Online),2000,throughput,4.8028571428571425
+E2,Abilene,Medium,Q-Learning (Online),2000,load_balance,0.6407757745886906
+E2,Abilene,Medium,Q-Learning (Online),2000,max_link_util,0.8185714285714286
+E2,Abilene,Medium,Q-Learning (Online),2000,injected,1697.0
+E2,Abilene,Medium,Q-Learning (Online),2000,delivered,1681.0
+E2,Abilene,Medium,Q-Learning (Online),2000,dropped,2.0
+E2,Abilene,Medium,Q-Learning (Online),2000,dropped_queue_full,0.0
+E2,Abilene,Medium,Q-Learning (Online),2000,dropped_link_down,2.0
+E2,Abilene,Medium,Q-Learning (Online),2000,dropped_ttl,0.0
+E2,Abilene,Medium,Dijkstra,2001,avg_delay,4.227848101265823
+E2,Abilene,Medium,Dijkstra,2001,p95_delay,14.0
+E2,Abilene,Medium,Dijkstra,2001,avg_hops,2.608227848101266
+E2,Abilene,Medium,Dijkstra,2001,loss_pct,2.8290282902829027
+E2,Abilene,Medium,Dijkstra,2001,throughput,4.514285714285714
+E2,Abilene,Medium,Dijkstra,2001,load_balance,0.5277066611351555
+E2,Abilene,Medium,Dijkstra,2001,max_link_util,0.6742857142857143
+E2,Abilene,Medium,Dijkstra,2001,injected,1649.0
+E2,Abilene,Medium,Dijkstra,2001,delivered,1580.0
+E2,Abilene,Medium,Dijkstra,2001,dropped,46.0
+E2,Abilene,Medium,Dijkstra,2001,dropped_queue_full,5.0
+E2,Abilene,Medium,Dijkstra,2001,dropped_link_down,41.0
+E2,Abilene,Medium,Dijkstra,2001,dropped_ttl,0.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,avg_delay,7.176548967355097
+E2,Abilene,Medium,Q-Learning (Frozen),2001,p95_delay,30.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,avg_hops,4.001998667554964
+E2,Abilene,Medium,Q-Learning (Frozen),2001,loss_pct,3.720333547145606
+E2,Abilene,Medium,Q-Learning (Frozen),2001,throughput,4.288571428571428
+E2,Abilene,Medium,Q-Learning (Frozen),2001,load_balance,0.7958344371544036
+E2,Abilene,Medium,Q-Learning (Frozen),2001,max_link_util,0.8085714285714286
+E2,Abilene,Medium,Q-Learning (Frozen),2001,injected,1649.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,delivered,1501.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,dropped,58.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,dropped_queue_full,3.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,dropped_link_down,3.0
+E2,Abilene,Medium,Q-Learning (Frozen),2001,dropped_ttl,52.0
+E2,Abilene,Medium,Q-Learning (Online),2001,avg_delay,3.9526445264452645
+E2,Abilene,Medium,Q-Learning (Online),2001,p95_delay,11.0
+E2,Abilene,Medium,Q-Learning (Online),2001,avg_hops,3.162976629766298
+E2,Abilene,Medium,Q-Learning (Online),2001,loss_pct,0.30656039239730226
+E2,Abilene,Medium,Q-Learning (Online),2001,throughput,4.645714285714286
+E2,Abilene,Medium,Q-Learning (Online),2001,load_balance,0.6734991968162393
+E2,Abilene,Medium,Q-Learning (Online),2001,max_link_util,0.7457142857142857
+E2,Abilene,Medium,Q-Learning (Online),2001,injected,1649.0
+E2,Abilene,Medium,Q-Learning (Online),2001,delivered,1626.0
+E2,Abilene,Medium,Q-Learning (Online),2001,dropped,5.0
+E2,Abilene,Medium,Q-Learning (Online),2001,dropped_queue_full,0.0
+E2,Abilene,Medium,Q-Learning (Online),2001,dropped_link_down,1.0
+E2,Abilene,Medium,Q-Learning (Online),2001,dropped_ttl,4.0
+E2,Abilene,Medium,Dijkstra,2002,avg_delay,4.382123575284943
+E2,Abilene,Medium,Dijkstra,2002,p95_delay,13.0
+E2,Abilene,Medium,Dijkstra,2002,avg_hops,2.593881223755249
+E2,Abilene,Medium,Dijkstra,2002,loss_pct,1.9411764705882355
+E2,Abilene,Medium,Dijkstra,2002,throughput,4.7628571428571425
+E2,Abilene,Medium,Dijkstra,2002,load_balance,0.526765254495647
+E2,Abilene,Medium,Dijkstra,2002,max_link_util,0.69
+E2,Abilene,Medium,Dijkstra,2002,injected,1722.0
+E2,Abilene,Medium,Dijkstra,2002,delivered,1667.0
+E2,Abilene,Medium,Dijkstra,2002,dropped,33.0
+E2,Abilene,Medium,Dijkstra,2002,dropped_queue_full,0.0
+E2,Abilene,Medium,Dijkstra,2002,dropped_link_down,33.0
+E2,Abilene,Medium,Dijkstra,2002,dropped_ttl,0.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,avg_delay,7.382241813602015
+E2,Abilene,Medium,Q-Learning (Frozen),2002,p95_delay,29.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,avg_hops,4.040302267002519
+E2,Abilene,Medium,Q-Learning (Frozen),2002,loss_pct,3.2886723507917175
+E2,Abilene,Medium,Q-Learning (Frozen),2002,throughput,4.537142857142857
+E2,Abilene,Medium,Q-Learning (Frozen),2002,load_balance,0.7981093721652682
+E2,Abilene,Medium,Q-Learning (Frozen),2002,max_link_util,0.8057142857142857
+E2,Abilene,Medium,Q-Learning (Frozen),2002,injected,1722.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,delivered,1588.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,dropped,54.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,dropped_queue_full,0.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,dropped_link_down,3.0
+E2,Abilene,Medium,Q-Learning (Frozen),2002,dropped_ttl,51.0
+E2,Abilene,Medium,Q-Learning (Online),2002,avg_delay,4.432448377581121
+E2,Abilene,Medium,Q-Learning (Online),2002,p95_delay,12.299999999999955
+E2,Abilene,Medium,Q-Learning (Online),2002,avg_hops,3.2755162241887907
+E2,Abilene,Medium,Q-Learning (Online),2002,loss_pct,0.29411764705882354
+E2,Abilene,Medium,Q-Learning (Online),2002,throughput,4.8428571428571425
+E2,Abilene,Medium,Q-Learning (Online),2002,load_balance,0.6760684449458724
+E2,Abilene,Medium,Q-Learning (Online),2002,max_link_util,0.7942857142857143
+E2,Abilene,Medium,Q-Learning (Online),2002,injected,1722.0
+E2,Abilene,Medium,Q-Learning (Online),2002,delivered,1695.0
+E2,Abilene,Medium,Q-Learning (Online),2002,dropped,5.0
+E2,Abilene,Medium,Q-Learning (Online),2002,dropped_queue_full,0.0
+E2,Abilene,Medium,Q-Learning (Online),2002,dropped_link_down,0.0
+E2,Abilene,Medium,Q-Learning (Online),2002,dropped_ttl,5.0
+E2,Abilene,Medium,Dijkstra,2003,avg_delay,3.767868051313378
+E2,Abilene,Medium,Dijkstra,2003,p95_delay,10.0
+E2,Abilene,Medium,Dijkstra,2003,avg_hops,2.6102626756261453
+E2,Abilene,Medium,Dijkstra,2003,loss_pct,2.1518230723251643
+E2,Abilene,Medium,Dijkstra,2003,throughput,4.677142857142857
+E2,Abilene,Medium,Dijkstra,2003,load_balance,0.5280786246289971
+E2,Abilene,Medium,Dijkstra,2003,max_link_util,0.6928571428571428
+E2,Abilene,Medium,Dijkstra,2003,injected,1703.0
+E2,Abilene,Medium,Dijkstra,2003,delivered,1637.0
+E2,Abilene,Medium,Dijkstra,2003,dropped,36.0
+E2,Abilene,Medium,Dijkstra,2003,dropped_queue_full,4.0
+E2,Abilene,Medium,Dijkstra,2003,dropped_link_down,32.0
+E2,Abilene,Medium,Dijkstra,2003,dropped_ttl,0.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,avg_delay,6.67504835589942
+E2,Abilene,Medium,Q-Learning (Frozen),2003,p95_delay,26.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,avg_hops,3.9877498388136687
+E2,Abilene,Medium,Q-Learning (Frozen),2003,loss_pct,4.022277227722772
+E2,Abilene,Medium,Q-Learning (Frozen),2003,throughput,4.4314285714285715
+E2,Abilene,Medium,Q-Learning (Frozen),2003,load_balance,0.799604081876095
+E2,Abilene,Medium,Q-Learning (Frozen),2003,max_link_util,0.8214285714285714
+E2,Abilene,Medium,Q-Learning (Frozen),2003,injected,1703.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,delivered,1551.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,dropped,65.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,dropped_queue_full,1.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,dropped_link_down,3.0
+E2,Abilene,Medium,Q-Learning (Frozen),2003,dropped_ttl,61.0
+E2,Abilene,Medium,Q-Learning (Online),2003,avg_delay,4.147235576923077
+E2,Abilene,Medium,Q-Learning (Online),2003,p95_delay,12.0
+E2,Abilene,Medium,Q-Learning (Online),2003,avg_hops,3.1881009615384617
+E2,Abilene,Medium,Q-Learning (Online),2003,loss_pct,0.41891083183722316
+E2,Abilene,Medium,Q-Learning (Online),2003,throughput,4.7542857142857144
+E2,Abilene,Medium,Q-Learning (Online),2003,load_balance,0.6651894482269187
+E2,Abilene,Medium,Q-Learning (Online),2003,max_link_util,0.8057142857142857
+E2,Abilene,Medium,Q-Learning (Online),2003,injected,1703.0
+E2,Abilene,Medium,Q-Learning (Online),2003,delivered,1664.0
+E2,Abilene,Medium,Q-Learning (Online),2003,dropped,7.0
+E2,Abilene,Medium,Q-Learning (Online),2003,dropped_queue_full,0.0
+E2,Abilene,Medium,Q-Learning (Online),2003,dropped_link_down,3.0
+E2,Abilene,Medium,Q-Learning (Online),2003,dropped_ttl,4.0
+E2,Abilene,Medium,Dijkstra,2004,avg_delay,4.1103404791929385
+E2,Abilene,Medium,Dijkstra,2004,p95_delay,11.0
+E2,Abilene,Medium,Dijkstra,2004,avg_hops,2.637452711223203
+E2,Abilene,Medium,Dijkstra,2004,loss_pct,2.4600246002460024
+E2,Abilene,Medium,Dijkstra,2004,throughput,4.531428571428571
+E2,Abilene,Medium,Dijkstra,2004,load_balance,0.511355198468927
+E2,Abilene,Medium,Dijkstra,2004,max_link_util,0.7228571428571429
+E2,Abilene,Medium,Dijkstra,2004,injected,1650.0
+E2,Abilene,Medium,Dijkstra,2004,delivered,1586.0
+E2,Abilene,Medium,Dijkstra,2004,dropped,40.0
+E2,Abilene,Medium,Dijkstra,2004,dropped_queue_full,1.0
+E2,Abilene,Medium,Dijkstra,2004,dropped_link_down,39.0
+E2,Abilene,Medium,Dijkstra,2004,dropped_ttl,0.0
+E2,Abilene,Medium,Q-Learning (Frozen),2004,avg_delay,6.41106719367589
+E2,Abilene,Medium,Q-Learning (Frozen),2004,p95_delay,22.149999999999864
+E2,Abilene,Medium,Q-Learning (Frozen),2004,avg_hops,3.8596837944664033
+E2,Abilene,Medium,Q-Learning (Frozen),2004,loss_pct,3.6802030456852792
+E2,Abilene,Medium,Q-Learning (Frozen),2004,throughput,4.337142857142857
+E2,Abilene,Medium,Q-Learning (Frozen),2004,load_balance,0.7630041043002819
+E2,Abilene,Medium,Q-Learning (Frozen),2004,max_link_util,0.8314285714285714
+E2,Abilene,Medium,Q-Learning (Frozen),2004,injected,1650.0
+E2,Abilene,Medium,Q-Learning (Frozen),2004,delivered,1518.0
+E2,Abilene,Medium,Q-Learning (Frozen),2004,dropped,58.0
+E2,Abilene,Medium,Q-Learning (Frozen),2004,dropped_queue_full,1.0
+E2,Abilene,Medium,Q-Learning (Frozen),2004,dropped_link_down,2.0
+E2,Abilene,Medium,Q-Learning (Frozen),2004,dropped_ttl,55.0
+E2,Abilene,Medium,Q-Learning (Online),2004,avg_delay,4.541923551171394
+E2,Abilene,Medium,Q-Learning (Online),2004,p95_delay,12.949999999999818
+E2,Abilene,Medium,Q-Learning (Online),2004,avg_hops,3.3286066584463625
+E2,Abilene,Medium,Q-Learning (Online),2004,loss_pct,0.1846153846153846
+E2,Abilene,Medium,Q-Learning (Online),2004,throughput,4.634285714285714
+E2,Abilene,Medium,Q-Learning (Online),2004,load_balance,0.6677414906167981
+E2,Abilene,Medium,Q-Learning (Online),2004,max_link_util,0.8114285714285714
+E2,Abilene,Medium,Q-Learning (Online),2004,injected,1650.0
+E2,Abilene,Medium,Q-Learning (Online),2004,delivered,1622.0
+E2,Abilene,Medium,Q-Learning (Online),2004,dropped,3.0
+E2,Abilene,Medium,Q-Learning (Online),2004,dropped_queue_full,0.0
+E2,Abilene,Medium,Q-Learning (Online),2004,dropped_link_down,1.0
+E2,Abilene,Medium,Q-Learning (Online),2004,dropped_ttl,2.0
